@@ -1,4 +1,8 @@
-# CircleCI Demo Application: Ruby on Rails [![CircleCI](https://circleci.com/gh/CircleCI-Public/circleci-demo-ruby-rails.svg?style=svg)](https://circleci.com/gh/CircleCI-Public/circleci-demo-ruby-rails)
+# Octocat Memory Game for GitHub
+
+With CircleCI and Heroku
+
+This is based on the Open Source project: CircleCI Demo Application: Ruby on Rails [![CircleCI](https://circleci.com/gh/CircleCI-Public/circleci-demo-ruby-rails.svg?style=svg)](https://circleci.com/gh/CircleCI-Public/circleci-demo-ruby-rails)
 
 This is an example application showcasing how to run a Ruby on Rails app on CircleCI 2.0.
 
@@ -9,5 +13,3 @@ You can follow along with this project by reading the [documentation](https://ci
 Copyright (c) 2017 CircleCI
 
 Distributed under the MIT License. See the file COPYING.
-
-
