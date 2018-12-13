@@ -1,7 +1,7 @@
 ## Starting a Case
-- List
-- List
+- enter title
+- select case parameter
+- attach doc
+- check & start
 ## Selecting Tasks
-- List 👍 
-
-- List
+- chose individual tasks 👍 
