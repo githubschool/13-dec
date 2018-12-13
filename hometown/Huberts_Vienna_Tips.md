@@ -8,7 +8,7 @@ If you visit Vienna you should see the following:
 
 
 ## Sights
-- Karlskirche
+- Karlskirchenplatz
 - Stefansdom
 - Schloss Schönbrunn
 - Kunstmuseum
