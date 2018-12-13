@@ -1,6 +1,6 @@
-## Places to eat
+## Place to eat
 
-- List
+- A good place for Lángos
 - List
 
 ## Things to do
