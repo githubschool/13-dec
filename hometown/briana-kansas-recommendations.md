@@ -1,7 +1,7 @@
 ## Places to eat 
-- List 
-- List 
+- Joe's KC BBQ
+- Kin Lin 
 
 ## Things to do 
-- List 
-- List 
+- Sporting Kansas City 
+- Kauffman Center
