@@ -1,4 +1,5 @@
 <!-- _navbar.md -->
+- [About this project](about_project.md)
 
 * Getting started
 
