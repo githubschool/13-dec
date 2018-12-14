@@ -1,5 +1,5 @@
 const img = [
-  'https://octodex.github.com/images/steroidtocat.png',
+  'https://octodex.github.com/images/oktobercat.png',
   'https://octodex.github.com/images/megacat-2.png',
   'https://octodex.github.com/images/dodgetocat_v2.png',
   'https://octodex.github.com/images/mcefeeline.jpg',
