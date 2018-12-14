@@ -1,0 +1,3 @@
+# This is all about ...
+
+![firefighter-octocat](https://octodex.github.com/images/Sentrytocat_octodex.jpg)
