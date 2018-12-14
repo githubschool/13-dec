@@ -14,9 +14,4 @@
   * [Using plugins](plugins.md)
   * [Markdown configuration](markdown.md)
   * [Language highlight](language-highlight.md)
-  
-  # Aufzählung
-  
-  1. Erstens
-  1. Zweites erstens
-  1. Drittes erstens
+
