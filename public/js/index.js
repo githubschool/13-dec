@@ -10,7 +10,7 @@ const img = [
   'https://octodex.github.com/images/saritocat.png',
   'https://octodex.github.com/images/plumber.jpg',
   'https://octodex.github.com/images/linktocat.jpg',
-  'https://octodex.github.com/images/oktobercat.png.'
+  'https://octodex.github.com/images/kimonotocat.png'	
 ];
 
 let total = 0;
